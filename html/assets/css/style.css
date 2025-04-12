@@ -526,7 +526,7 @@ button, input, textarea:focus {
 	transition: all 0.4s ease; 
 }
 .atf-site-branding.atf-white-logo img {
-	max-width: 110px;
+	max-width: 500px;
 	height: auto;
 }
 .atf-site-header.atf-style1 .atf-main-header-in {
