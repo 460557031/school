@@ -1,0 +1,44 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5805066",
+      "name": "小红书",
+      "font_class": "xiaohongshu",
+      "unicode": "e69e",
+      "unicode_decimal": 59038
+    },
+    {
+      "icon_id": "9023354",
+      "name": "小红书",
+      "font_class": "xiaohongshu1",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "9324485",
+      "name": "小红书",
+      "font_class": "xiaohongshu2",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "36835244",
+      "name": "小红书",
+      "font_class": "xiaohongshu3",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "37490665",
+      "name": "xhs",
+      "font_class": "xiaohongshu4",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    }
+  ]
+}
